@@ -1,5 +1,5 @@
 # moku
-![image](https://user-images.githubusercontent.com/39984084/236602333-fc09a6f8-bb71-4411-893f-d1bc781881af.png)
+![代替テキスト](https://cdn.mainichi.jp/vol1/2024/05/14/20240514orc00m200021000p/0c10.jpg?1 "エモミルクティー")
 # はじめに
 本ページは書籍[「作りながら丁寧に学ぶPythonプログラミング入門」](http://www.kgup.jp/book/b603529.html)のサポートページです。
 本ページでは、書籍で利用するデータやインストール方法、プログラミング初心者をサポートする内容を紹介します。
